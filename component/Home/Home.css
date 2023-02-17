@@ -1,0 +1,21 @@
+.home{
+    width: 100%;
+    height: 75%;
+    background-color: aqua;
+}
+
+.homeHeading{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 1.4vmax;
+    border-bottom:  1px solid rgb(0, 0, 0);
+    width:  20vmax;
+    padding: 1vmax;
+    margin: 5vmax auto;
+    color: black;
+}
+.homes{
+    
+    width: 85%;
+    margin-left:15% ;
+}
